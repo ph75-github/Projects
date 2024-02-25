@@ -7,7 +7,7 @@
 
 This dashboard helps the SuperStore understand their sales and gain valuable insights to drive business decisions. It helps the SuperStore know how their sales are going in each region and where there is a need for sales improvement. It also lets them know what the total sales are and what the profit gains are throughout the year, month by month.
 
-The challenges include cleaning and transforming the raw data, performing exploratory analysis, and visualizing the findings in an intuitive and informative manner.
+The challenges include performing exploratory analysis, and visualizing the findings in an intuitive and informative manner.
 
 Tools used: SQL, Power BI
 
